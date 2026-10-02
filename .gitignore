@@ -1,0 +1,14 @@
+# Raw sequencing files
+*.fastq
+*.fastq.gz
+*.fq 
+*.fq.gz
+
+# Generated results 
+data/
+results/
+logs/
+ 
+# Python termporary files
+__pycache__/
+.venv
