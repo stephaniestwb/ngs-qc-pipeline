@@ -11,4 +11,7 @@ logs/
  
 # Python termporary files
 __pycache__/
-.venv
+.venv/
+
+# Apptainer/Singularity container images
+*.sif
